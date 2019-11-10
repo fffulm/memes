@@ -12,7 +12,8 @@ const instances = {
     templates: [
         "sharepic/templates/retrospective/template.json",
         "sharepic/templates/quote2/template.json",
-        "sharepic/templates/sentence2/template.json"
+        "sharepic/templates/sentence2/template.json",
+        "sharepic/templates/countdown/template.json"
     ]
   },
   en: {
